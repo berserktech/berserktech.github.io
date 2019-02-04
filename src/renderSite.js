@@ -8,8 +8,9 @@ import { renderTemplateFile } from 'template-file'
 
 export default async function getAllMembers(list) {
   // Getting all of our members, sorted by followers
-  let members = require('../fixtures/members.json')
-  // let members = await gh.getMembersFull('berserktech')
+  let members = await gh.getMembersFull('berserktech')
+  // // To test:
+  // let members = require('../fixtures/members.json')
   // console.log(JSON.stringify(members))
   // console.log({ members })
   let getIndex = ({ login }) => metadata.findIndex(x => x.github === login)
