@@ -5,6 +5,7 @@
       "module": "bluebird",
       "method": "coroutine"
     }],
-    ["@babel/proposal-object-rest-spread"]
+    ["@babel/proposal-object-rest-spread"],
+    ["@babel/plugin-proposal-class-properties"]
   ]
 }
