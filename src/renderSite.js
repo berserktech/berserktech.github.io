@@ -23,9 +23,6 @@ export default async function getAllMembers(list) {
   // Updating the cache
   fs.writeFileSync('fixtures/members.json', JSON.stringify(members))
 
-  // Sorting the members randomly
-  members = members.sort((a, b) => (Math.random() > 0.5 ? -1 : 1))
-
   // Adding the metadata
   members = members.map(github => ({
     github,
