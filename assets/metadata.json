@@ -112,7 +112,7 @@
       "js", "cartujo", "squirrels", "web"
     ],
     "industries": [
-      "SaaS", "FinTech"
+      "SaaS", "FinTech", "and many other", "projects"
     ],
     "links": [
       {
@@ -137,7 +137,8 @@
     "tags": [
       "JavaScript",
       "Serverless",
-      "WebGL"
+      "WebGL",
+      "and anything challenging"
     ],
     "industries": [
       "Government", "Proxy", "VPNs", "Streaming", "Weed", "Art"
@@ -167,7 +168,7 @@
     "travelReady": false,
     "since": "2013",
     "tags": [
-      "nodejs", "python", "devops", "vps"
+      "nodejs", "python", "devops", "and vps"
     ],
     "industries": [
       "tech", "social networks", "SEO"
@@ -184,6 +185,35 @@
       {
         "link": "https://rogs.me",
         "text": "https://rogs.me"
+      }
+    ]
+  },
+  {
+    "github": "schoettler",
+    "card": {
+      "value": "J",
+      "type": "hearts"
+    },
+    "location": "Toronto, Ontario, Canada",
+    "travelReady": true,
+    "since": "2011",
+    "tags": [
+    ],
+    "industries": [
+      "health", "financial", "sports", "collection", "data viz", "education"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/rober_vs",
+        "text": "Twitter: @rober_vs"
+      },
+      {
+        "link": "https://www.dropbox.com/s/lguzfo7s59ivvim/Roberto.%20Senior%20Modern%20JavaScript%20Developer.pdf?dl=0",
+        "text": "resume"
+      },
+      {
+        "link": "https://medium.com/sadasant",
+        "text": "medium"
       }
     ]
   }
