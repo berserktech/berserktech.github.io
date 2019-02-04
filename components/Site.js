@@ -1,6 +1,7 @@
 import React from 'react'
 import MemberList from './MemberList'
 import ContactUs from './ContactUs'
+import Footer from './Footer'
 
 const Site = ({ members }) => (
   <div className="pageContainer">
@@ -12,6 +13,7 @@ const Site = ({ members }) => (
     </header>
     <MemberList members={members} />
     <ContactUs />
+    <Footer />
   </div>
 )
 
