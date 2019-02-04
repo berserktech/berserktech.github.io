@@ -30,15 +30,19 @@
     "links": [
       {
         "link": "https://twitter.com/sadasant",
-        "text": "@sadasant"
+        "text": "Twitter: @sadasant"
       },
       {
         "link": "https://docs.google.com/document/d/1-IQF3sKZ72jryJAzdiN1gZaVNYFOFimW3oO8BJYRsgM/edit?usp=sharing",
         "text": "resume"
       },
       {
+        "link": "https://medium.com/sadasant",
+        "text": "medium"
+      },
+      {
         "link": "https://sadasant.com/",
-        "text": "website"
+        "text": "https://sadasant.com/"
       }
     ]
   },
@@ -61,15 +65,11 @@
     "links": [
       {
         "link": "https://twitter.com/AITBW",
-        "text": "@AITBW"
+        "text": "Twitter: @AITBW"
       },
       {
         "link": "https://drive.google.com/open?id=0B9XTHCgYJ-VKUER5QVJzVm0wZ2s",
         "text": "resume"
-      },
-      {
-        "link": "https://sadasant.com/",
-        "text": "website"
       }
     ]
   },
@@ -95,11 +95,7 @@
     "links": [
       {
         "link": "https://twitter.com/obeladrian",
-        "text": "@obeladrian"
-      },
-      {
-        "link": "https://sadasant.com/",
-        "text": "website"
+        "text": "Twitter: @obeladrian"
       }
     ]
   },
@@ -121,15 +117,73 @@
     "links": [
       {
         "link": "https://twitter.com/stefanmaric_",
-        "text": "@stefanmaric_"
+        "text": "Twitter: @stefanmaric_"
       },
       {
-        "link": "https://docs.google.com/document/d/1-IQF3sKZ72jryJAzdiN1gZaVNYFOFimW3oO8BJYRsgM/edit?usp=sharing",
+        "link": "https://www.linkedin.com/in/maricstefan",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "guerrerocarlos",
+    "card": {
+      "value": "7",
+      "type": "hearts"
+    },
+    "location": "Kiev and soon Madrid",
+    "travelReady": true,
+    "since": "2008",
+    "tags": [
+      "JavaScript",
+      "Serverless",
+      "WebGL"
+    ],
+    "industries": [
+      "Government", "Proxy", "VPNs", "Streaming", "Weed", "Art"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/obeladrian",
+        "text": "Twitter: @obeladrian"
+      },
+      {
+        "link": "https://carlosguerrero.com",
+        "text": "blog"
+      },
+      {
+        "link": "http://bit.ly/guerrerocarlos-CV",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "Rogergonzalez21",
+    "card": {
+      "value": "4",
+      "type": "diamonds"
+    },
+    "location": "Venezuela",
+    "travelReady": false,
+    "since": "2013",
+    "tags": [
+      "nodejs", "python", "devops", "vps"
+    ],
+    "industries": [
+      "tech", "social networks", "SEO"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/rogergonzalez21",
+        "text": "Twitter: @rogergonzalez21"
+      },
+      {
+        "link": "https://docs.google.com/document/d/1b0wnMD2448-wBOVvWVVWtSFWq2Vp5Ij-443wjdPqbVA/edit?usp=sharing",
         "text": "resume"
       },
       {
-        "link": "https://sadasant.com/",
-        "text": "website"
+        "link": "https://rogs.me",
+        "text": "https://rogs.me"
       }
     ]
   }
