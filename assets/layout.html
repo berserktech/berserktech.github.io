@@ -32,13 +32,5 @@
   </head>
   <body>
 		{{ content }}
-		<script>
-// Shuffle
-// based on https://stackoverflow.com/a/11972692
-var members = document.querySelector('.members');
-for (var i = members.children.length; i >= 0; i--) {
-    members.appendChild(members.children[Math.random() * i | 0]);
-}
-    </script>
   </body>
 </html>
