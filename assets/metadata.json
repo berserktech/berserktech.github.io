@@ -56,7 +56,7 @@
     "travelReady": true,
     "since": "2017",
     "tags": [
-      "open source", "poliglot", "music"
+      "open source", "ruby", "rails", "poliglot", "and music" 
     ],
     "industries": [
       "e-government", "govtech", "e-commerce"
@@ -67,7 +67,7 @@
         "text": "Twitter: @AITBW"
       },
       {
-        "link": "https://drive.google.com/open?id=0B9XTHCgYJ-VKUER5QVJzVm0wZ2s",
+        "link": "https://www.linkedin.com/in/angelperez93/",
         "text": "resume"
       },
       {
@@ -82,6 +82,9 @@
       "value": "10",
       "type": "diamonds"
     },
+    "location": "Canada",
+    "travelReady": true,
+    "since": "2017",
     "tags": [
       "Full-stack",
       "ES6+",
@@ -222,7 +225,7 @@
       "value": "5",
       "type": "diamonds"
     },
-    "location": "Toronto, Ontario, Canada",
+    "location": "Bogotá, Colombia",
     "travelReady": true,
     "since": "2014",
     "tags": [
