@@ -10,8 +10,7 @@ export default async function getAllMembers(list) {
   // Getting all of our members, sorted by followers
   let members
   try {
-    // members = await gh.getMembersFull('berserktech')
-    throw new Error('TODO: remove this throw')
+    members = await gh.getMembersFull('berserktech')
   } catch (e) {
     console.info(
       'Failed to get the members, using the cached response',
