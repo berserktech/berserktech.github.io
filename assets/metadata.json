@@ -1,0 +1,136 @@
+[
+  {
+    "github": "sadasant",
+    "card": {
+      "value": "A",
+      "type": "spades"
+    },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "2011",
+    "tags": [
+      "Full-stack",
+      "ES6+",
+      "Go",
+      "resilient",
+      "real-time",
+      "large-scale",
+      "production-ready",
+      "cloud",
+      "applications"
+    ],
+    "industries": [
+      "Social Networks",
+      "FinTech",
+      "Shipping",
+      "GovTech",
+      "SMB",
+      "Distributed"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/sadasant",
+        "text": "@sadasant"
+      },
+      {
+        "link": "https://docs.google.com/document/d/1-IQF3sKZ72jryJAzdiN1gZaVNYFOFimW3oO8BJYRsgM/edit?usp=sharing",
+        "text": "resume"
+      },
+      {
+        "link": "https://sadasant.com/",
+        "text": "website"
+      }
+    ]
+  },
+  {
+    "github": "aitbw",
+    "card": {
+      "value": "K",
+      "type": "hearts"
+    },
+    "tags": [
+      "Redis",
+      "JavaScript",
+      "Open Source",
+      "multi-language",
+      "production-ready",
+      "systems"
+    ],
+    "industries": [
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/AITBW",
+        "text": "@AITBW"
+      },
+      {
+        "link": "https://drive.google.com/open?id=0B9XTHCgYJ-VKUER5QVJzVm0wZ2s",
+        "text": "resume"
+      },
+      {
+        "link": "https://sadasant.com/",
+        "text": "website"
+      }
+    ]
+  },
+  {
+    "github": "adrianObel",
+    "card": {
+      "value": "10",
+      "type": "diamonds"
+    },
+    "tags": [
+      "Full-stack",
+      "ES6+",
+      "Rust",
+      "resilient",
+      "real-time",
+      "large-scale",
+      "production-ready",
+      "cloud",
+      "applications"
+    ],
+    "industries": [
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/obeladrian",
+        "text": "@obeladrian"
+      },
+      {
+        "link": "https://sadasant.com/",
+        "text": "website"
+      }
+    ]
+  },
+  {
+    "github": "stefanmaric",
+    "card": {
+      "value": "10",
+      "type": "spades"
+    },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "2011",
+    "tags": [
+      "js", "cartujo", "squirrels", "web"
+    ],
+    "industries": [
+      "SaaS", "FinTech"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/stefanmaric_",
+        "text": "@stefanmaric_"
+      },
+      {
+        "link": "https://docs.google.com/document/d/1-IQF3sKZ72jryJAzdiN1gZaVNYFOFimW3oO8BJYRsgM/edit?usp=sharing",
+        "text": "resume"
+      },
+      {
+        "link": "https://sadasant.com/",
+        "text": "website"
+      }
+    ]
+  }
+]
