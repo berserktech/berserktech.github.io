@@ -42,25 +42,24 @@
       },
       {
         "link": "https://sadasant.com/",
-        "text": "https://sadasant.com/"
+        "text": "sadasant.com"
       }
     ]
   },
   {
     "github": "aitbw",
     "card": {
-      "value": "K",
+      "value": "Q",
       "type": "hearts"
     },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "2017",
     "tags": [
-      "Redis",
-      "JavaScript",
-      "Open Source",
-      "multi-language",
-      "production-ready",
-      "systems"
+      "open source", "poliglot", "music"
     ],
     "industries": [
+      "e-government", "govtech", "e-commerce"
     ],
     "links": [
       {
@@ -70,6 +69,10 @@
       {
         "link": "https://drive.google.com/open?id=0B9XTHCgYJ-VKUER5QVJzVm0wZ2s",
         "text": "resume"
+      },
+      {
+        "link": "http://aitbw.github.io/",
+        "text": "website"
       }
     ]
   },
@@ -210,10 +213,62 @@
       {
         "link": "https://www.dropbox.com/s/lguzfo7s59ivvim/Roberto.%20Senior%20Modern%20JavaScript%20Developer.pdf?dl=0",
         "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "maat5",
+    "card": {
+      "value": "5",
+      "type": "diamonds"
+    },
+    "location": "Toronto, Ontario, Canada",
+    "travelReady": true,
+    "since": "2014",
+    "tags": [
+      "Node.js", "Angular", "Firebase Cloud Functions", "BigQuery" 
+    ],
+    "industries": [
+      "Rokk3r", "Biosistemika LLC",  "SocialH4ck"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/maat_f5",
+        "text": "Twitter: @maat_f5"
       },
       {
-        "link": "https://medium.com/sadasant",
-        "text": "medium"
+        "link": "https://www.linkedin.com/in/manuelabrante/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "castrolem",
+    "card": {
+      "value": "4",
+      "type": "spades"
+    },
+    "location": "Barcelona, Spain",
+    "travelReady": true,
+    "since": "2011",
+    "tags": [
+      "React", "JavaScript", "Redux", "Ruby", "Rails", "PostgreSQL", "CSS", "HTML"
+    ],
+    "industries": [
+      "Real estate", "mobility", "food"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/castrolem",
+        "text": "Twitter: @castrolem"
+      },
+      {
+        "link": "https://es.linkedin.com/in/castrolem",
+        "text": "resume"
+      },
+      {
+        "link": "https://luiscastro.co",
+        "text": "luiscastro.co"
       }
     ]
   }
