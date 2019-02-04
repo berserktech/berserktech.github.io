@@ -120,21 +120,30 @@ header span {
   opacity: 1;
   outline: none;
   animation: zoom-in 0.3s forwards;
+  background: white;
 }
 .members .member:focus .type {
-  color: #333;
+  color: #000;
+}
+.members .member.color-red:focus .type {
+  color: #F00;
 }
 .members .member:focus .avatar {
   display: block;
   text-align: center;
+  margin-bottom: 40px;
 }
 .members .member:focus .avatar img {
-  width: 300px;
-  height: 300px;
-  min-width: 300px;
-  min-height: 300px;
-  box-shadow: 0 0 30px rgba(255,255,255,0.2);
+  width: 250px;
+  height: 250px;
+  min-width: 250px;
+  min-height: 250px;
   -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(60%, transparent) , to(rgba(250, 250, 250, 0.4)));
+}
+.members .member:focus .memberBody {
+  color: black;
+  background: rgba(0,0,0,.02);
+  padding-bottom: 25px;
 }
 .members .member:focus .bio {
   display: inline;
