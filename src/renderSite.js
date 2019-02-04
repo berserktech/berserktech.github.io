@@ -8,13 +8,25 @@ import { renderTemplateFile } from 'template-file'
 
 export default async function getAllMembers(list) {
   // Getting all of our members, sorted by followers
-  let members = await gh.getMembersFull('berserktech')
-  // // To test:
-  // let members = require('../fixtures/members.json')
-  // console.log(JSON.stringify(members))
-  // console.log({ members })
-  let getIndex = ({ login }) => metadata.findIndex(x => x.github === login)
+  let members
+  try {
+    // members = await gh.getMembersFull('berserktech')
+    throw new Error('TODO: remove this throw')
+  } catch (e) {
+    console.info(
+      'Failed to get the members, using the cached response',
+      e.message
+    )
+    members = require('../fixtures/members.json')
+  }
+
+  // Updating the cache
+  fs.writeFileSync('fixtures/members.json', JSON.stringify(members))
+
+  // Sorting the members randomly
   members = members.sort((a, b) => (Math.random() > 0.5 ? -1 : 1))
+
+  // Adding the metadata
   members = members.map(github => ({
     github,
     metadata: metadata.find(x => x.github === github.login),
