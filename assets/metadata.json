@@ -274,5 +274,74 @@
         "text": "luiscastro.co"
       }
     ]
+  },
+  {
+    "github": "jobliz",
+    "card": {
+      "value": "J",
+      "type": "spades"
+    },
+    "location": "Venezuela",
+    "travelReady": false,
+    "since": "2012",
+    "tags": [
+      "python",
+      "javascript",
+      "sql",
+      "scipy"
+    ],
+    "industries": [
+      "research centers",
+      "tech"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/jobliz",
+        "text": "Twitter: @jobliz"
+      },
+      {
+        "link": "https://www.linkedin.com/in/jjreyna/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "betacar",
+    "card": {
+      "value": "K",
+      "type": "hearts"
+    },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "2005",
+    "tags": [
+      "JavaScript",
+      "Ruby on Rails",
+      "ESX",
+      "Node.js",
+      "Vue.js",
+      "Feathers.js",
+      "Mocha",
+      "Serverless",
+      "PostgreSQL",
+      "MySQL"
+    ],
+    "industries": [
+      "Genomics",
+      "Goverment",
+      "Metals",
+      "E-commerce",
+      "Furniture"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/betacar",
+        "text": "Twitter: @betacar"
+      },
+      {
+        "link": "https://linkedin.com/in/betacar",
+        "text": "resume"
+      }
+    ]
   }
 ]
