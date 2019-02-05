@@ -59,7 +59,7 @@ export default class Member extends Component {
           <div>{types[metadata.card.type]}</div>
         </div>
         <div className="avatar">
-          <img src={github.avatar_url} />
+          <img src={github.avatar_url} alt={`${github.name} profile`} />
         </div>
         <div className="memberBody">
           <h2>
