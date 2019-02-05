@@ -10,5 +10,11 @@
   },
   "rules": {
     "no-extra-semi": 0
-  }
+  },
+  "plugins": [
+    "jsx-a11y"
+  ],
+  "extends": [
+    "plugin:jsx-a11y/recommended"
+  ]
 }
