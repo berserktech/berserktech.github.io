@@ -46,7 +46,7 @@ export default class Member extends Component {
         </div>
         <div className="memberBody">
           <h2>
-            <a target="_blank" href={github.url}>
+            <a target="_blank" href={github.html_url}>
               {github.login}
               <div className="name"> is {github.name}</div>
             </a>
