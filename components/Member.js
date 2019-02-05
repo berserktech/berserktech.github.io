@@ -22,6 +22,9 @@ export default class Member extends Component {
     let {
       data: { github, metadata },
     } = this.props
+
+    if (!metadata) throw new Error(`Missing metadata for ${github.login}`)
+
     return (
       <button
         className={`member color-${colors[metadata.card.type]} ${
