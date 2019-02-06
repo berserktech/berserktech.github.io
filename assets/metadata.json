@@ -345,36 +345,6 @@
     ]
   },
   {
-    "github": "GusGA",
-    "card": {
-      "value": "A",
-      "type": "diamonds"
-    },
-    "location": "Remote",
-    "travelReady": false,
-    "since": "2011",
-    "tags": [
-      "Ruby", "Go", "Elixir", "Docker", "Microservices" 
-    ],
-    "industries": [
-      "Legal", "E-Commerce", "CMS", "Human Resources"
-    ],
-    "links": [
-      {
-        "link": "https://twitter.com/Gonzo_",
-        "text": "Twitter: @Gonzo_"
-      },
-      {
-        "link": "http://gonzo.co.ve/cv",
-        "text": "resume"
-      },
-      {
-        "link": "http://gonzo.co.ve",
-        "text": "gonzo.co.ve"
-      }
-    ]
-  },
-  {
     "github": "zentraedi",
     "card": {
       "value": "J",
@@ -830,7 +800,7 @@
     "github": "javjar",
     "card": {
       "value": "K",
-      "type": ""
+      "type": "diamonds"
     },
     "location": "Remote",
     "travelReady": true,
@@ -859,8 +829,8 @@
   {
     "github": "pctroll",
     "card": {
-      "value": "",
-      "type": ""
+      "value": "K",
+      "type": "spades"
     },
     "location": "Santiago, CL",
     "travelReady": true,
