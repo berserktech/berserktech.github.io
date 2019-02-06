@@ -686,14 +686,14 @@
       "value": "J",
       "type": "clubs"
     },
-    "location": "",
+    "location": "Remote",
     "travelReady": true,
     "since": "2009",
     "tags": [
-      "JavaScript", "Node.js", "Python", "Pandas", "Dask", "MySQL", "Postgre", "Neo4j", "Neptune", "MongoDb", "Redis", "Machine Learning", "Distributed Systems"
+      "Python", "JavaScript", "Postgre", "Neptune", "MongoDb", "Machine Learning", "Distributed Systems"
     ],
     "industries": [
-      "Fintech", "Blockchain", "Biotech", "Genetics", "Research", "Telecommunications", "E-Commerce", "University"
+      "Fintech", "Blockchain", "Biotech", "Bioinformatics", "E-Commerce", "Research"
     ],
     "links": [
       {
