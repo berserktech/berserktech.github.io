@@ -8,6 +8,12 @@ const Footer = () => (
     <a target="_blank" href="https://twitter.com/BerserkTech">
       twitter.com/BerserkTech
     </a>
+    <a target="_blank" href="https://medium.com/berserktech">
+      medium.com/BerserkTech
+    </a>
+    <a target="_blank" href="https://www.facebook.com/BerserkTech">
+      facebook.com/BerserkTech
+    </a>
   </div>
 )
 
