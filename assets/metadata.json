@@ -345,36 +345,6 @@
     ]
   },
   {
-    "github": "GusGA",
-    "card": {
-      "value": "A",
-      "type": "diamonds"
-    },
-    "location": "Remote",
-    "travelReady": false,
-    "since": "2011",
-    "tags": [
-      "Ruby", "Go", "Elixir", "Docker", "Microservices" 
-    ],
-    "industries": [
-      "Legal", "E-Commerce", "CMS", "Human Resources"
-    ],
-    "links": [
-      {
-        "link": "https://twitter.com/Gonzo_",
-        "text": "Twitter: @Gonzo_"
-      },
-      {
-        "link": "http://gonzo.co.ve/cv",
-        "text": "resume"
-      },
-      {
-        "link": "http://gonzo.co.ve",
-        "text": "gonzo.co.ve"
-      }
-    ]
-  },
-  {
     "github": "zentraedi",
     "card": {
       "value": "J",
@@ -763,6 +733,130 @@
       {
         "link": "https://www.linkedin.com/in/wilalejandro/",
         "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "BlackHarpy",
+    "card": {
+      "value": "Q",
+      "type": "diamonds"
+    },
+    "location": "Santiago, Chile",
+    "travelReady": true,
+    "since": "2011",
+    "tags": [
+      "JavaScript", "React", "Redux", "Angular", "TypeScript", "React Native", "Django", "Agile", "TDD", "Scrum"
+    ],
+    "industries": [
+      "Health", "Finance", "Tech"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/BlackHarpy",
+        "text": "Twitter: @BlackHarpy"
+      },
+      {
+        "link": "https://medium.com/@BlackHarpy",
+        "text": "blog"
+      },
+      {
+        "link": "https://www.linkedin.com/in/mariacastro87/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "ivanacostarubio",
+    "card": {
+      "value": "7",
+      "type": "diamonds"
+    },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "2006",
+    "tags": [
+      "Ruby", "Rust", "Elm"
+    ],
+    "industries": [
+      "Legal", "Travel", "Finance"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/ivanacostarubio",
+        "text": "Twitter: @ivanacostarubio"
+      },
+      {
+        "link": "https://ivanacostarubio.com",
+        "text": "ivanacostarubio.com"
+      },
+      {
+        "link": "ivanacostarubio.com",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "javjar",
+    "card": {
+      "value": "K",
+      "type": "diamonds"
+    },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "2007",
+    "tags": [
+      "AWS", "MySQL", "Redis", "ELK", "Docker", "Go", "JavaScript"
+    ],
+    "industries": [
+      "Universities", "Banking", "Video Game"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/javjar",
+        "text": "Twitter: @javjar"
+      },
+      {
+        "link": "http://www.javjar.com/",
+        "text": "javjar.com"
+      },
+      {
+        "link": "https://www.linkedin.com/in/javjar/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "pctroll",
+    "card": {
+      "value": "K",
+      "type": "spades"
+    },
+    "location": "Santiago, CL",
+    "travelReady": true,
+    "since": "2009",
+    "tags": [
+      "Unity", "Unity3d", "C#", "Game Development", "GameDev"
+    ],
+    "industries": [
+      "Game Development", "GameDev", "Advertising"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/pctroll",
+        "text": "Twitter: @pctroll"
+      },
+      {
+        "link": "https://jorge.palacios.rocks/",
+        "text": "jorge.palacios.rocks"
+      },
+      {
+        "link": "https://www.linkedin.com/in/pctroll",
+        "text": "resume"
+      },
+      {
+        "link": "https://www.twitch.com/reefaktor",
+        "text": "my twitch gamedev channel"
       }
     ]
   }
