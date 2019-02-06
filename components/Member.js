@@ -14,6 +14,20 @@ const types = {
   diamonds: '♦',
 }
 
+const mapSentence = f => x =>
+  x.reduce(
+    (acc, e, i) => [
+      ...acc,
+      i === x.length - 1 ? (
+        <span key={`${i}-span`}>&nbsp;&&nbsp;</span>
+      ) : (
+        <span key={`${i}-span`}>,&nbsp;</span>
+      ),
+      f(e, i),
+    ],
+    []
+  )
+
 export default class Member extends Component {
   state = {
     focused: false,
@@ -69,34 +83,21 @@ export default class Member extends Component {
           </p>
           <div className="industries">
             <b>INDUSTRIES:&nbsp;</b>
-            {metadata.industries.map((tag, i) => (
-              <div key={i}>
-                {tag}
-                <span>
-                  {i < metadata.industries.length - 1 ? ',' : ''}&nbsp;
-                </span>
-              </div>
-            ))}
+            {mapSentence((industry, i) => <div key={i}>{industry}</div>)(
+              metadata.industries
+            )}
           </div>
           <div className="tags">
             <b>TAGS:&nbsp;</b>
-            {metadata.tags.map((tag, i) => (
-              <div key={i}>
-                {tag}
-                <span>{i < metadata.tags.length - 2 ? ',' : ''}&nbsp;</span>
-              </div>
-            ))}
+            {mapSentence((tag, i) => <div key={i}>{tag}</div>)(metadata.tags)}
           </div>
           <div className="links">
             <b>LINKS:&nbsp;</b>
-            {metadata.links.map(({ link, text }, i) => (
-              <span key={i}>
-                <a target="_blank" href={link} alt={text}>
-                  {text}
-                </a>
-                <span>{i < metadata.links.length - 1 ? ',' : ''}&nbsp;</span>
-              </span>
-            ))}
+            {mapSentence(({ link, text }, i) => (
+              <a target="_blank" href={link} alt={text} key={i}>
+                {text}
+              </a>
+            ))(metadata.links)}
           </div>
         </div>
         <div className="type-inverted">
