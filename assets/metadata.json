@@ -328,7 +328,7 @@
     ],
     "industries": [
       "Genomics",
-      "Goverment",
+      "Government",
       "Metals",
       "E-commerce",
       "Furniture"
@@ -857,6 +857,162 @@
       {
         "link": "https://www.twitch.com/reefaktor",
         "text": "my twitch gamedev channel"
+      }
+    ]
+  },
+  {
+    "github": "Cleyrauz",
+    "card": {
+      "value": "A",
+      "type": "diamonds"
+    },
+    "location": "Glasgow, Scotland",
+    "travelReady": true,
+    "since": "2018",
+    "tags": [
+      "React", "VueJS", "JavaScript", "HTML", "CSS", "React Native"
+    ],
+    "industries": [
+      "Real Estate", "Health and Social Care", "Retail"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/cleyrauc",
+        "text": "Twitter: @cleyrauc"
+      },
+      {
+        "link": "https://www.linkedin.com/in/cleyrauzcategui/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "pankas87",
+    "card": {
+      "value": "8",
+      "type": "hearts"
+    },
+    "location": "Santiago, Chile",
+    "travelReady": true,
+    "since": "2010",
+    "tags": [
+      "Ruby", "Java", "JavaScript", "CSS"
+    ],
+    "industries": [
+      "Geographical Systems", "Airlines", "E-Commerce"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/pankas87",
+        "text": "Twitter: @pankas87"
+      },
+      {
+        "link": "https://www.linkedin.com/in/leonardo-graterol-24863223/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "pattyoc",
+    "card": {
+      "value": "3",
+      "type": "clubs"
+    },
+    "location": "Glasgow, Scotland",
+    "travelReady": false,
+    "since": "1999",
+    "tags": [
+      "PHP", "Drupal", "Laravel", "WordPress", "MySQL", "JavaScript", "CSS", "Java", "AI Ethics"
+    ],
+    "industries": [
+      "B2B", "Education", "Finances", "Early Social Networks", "GovTech", "eCommerce", "Marketing", "Travel", "Legal", "Telecommunications", "Health"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/pattyneta",
+        "text": "Twitter: @pattyneta"
+      },
+      {
+        "link": "https://www.linkedin.com/in/patricia-o-callaghan-a9a29a7",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "despinozac",
+    "card": {
+      "value": "3",
+      "type": "diamonds"
+    },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "2009",
+    "tags": [
+      "Ruby", "Python", "Rails", "Java", "data eng"
+    ],
+    "industries": [
+      "biotech", "microbiome", "law"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/despinoza85",
+        "text": "Twitter: @despinoza85"
+      },
+      {
+        "link": "https://www.linkedin.com/in/daniel-espinoza-34225b19/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "krhil",
+    "card": {
+      "value": "3",
+      "type": "hearts"
+    },
+    "location": "Santiago, Chile",
+    "travelReady": false,
+    "since": "2014",
+    "tags": [
+      "Java", "Spring Boot", "jQuery"
+    ],
+    "industries": [
+      "Government", "Education", "Bank Investments", "Retail Stores"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/krhil",
+        "text": "Twitter: @krhil"
+      },
+      {
+        "link": "https://docs.google.com/document/d/1SeRMklcPIj_k3OWoCEjc3anZdodutHWhCZFPgflhDCM/edit?usp=sharing",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "zeitan",
+    "card": {
+      "value": "4",
+      "type": "hearts"
+    },
+    "location": "San José, CA",
+    "travelReady": true,
+    "since": "1995",
+    "tags": [
+      "Scala", "Ruby", "Java"
+    ],
+    "industries": [
+      "Electric factories", "Industrial Factories", "eCommerce"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/antonbas",
+        "text": "Twitter: @antonbas"
+      },
+      {
+        "link": "http://www.linkedin.com/in/antonio-bastardo-l1-visa-6296704",
+        "text": "resume"
       }
     ]
   }
