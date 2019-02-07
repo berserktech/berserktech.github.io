@@ -26,7 +26,7 @@ const mapSentence = f => x =>
       f(e, i),
     ],
     []
-  )
+  ).slice(1)
 
 export default class Member extends Component {
   state = {
