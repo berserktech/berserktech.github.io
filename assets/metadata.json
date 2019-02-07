@@ -328,7 +328,7 @@
     ],
     "industries": [
       "Genomics",
-      "Goverment",
+      "Government",
       "Metals",
       "E-commerce",
       "Furniture"
@@ -866,11 +866,11 @@
       "value": "A",
       "type": "diamonds"
     },
-    "location": "Glasgow",
+    "location": "Glasgow, Scotland",
     "travelReady": true,
     "since": "2018",
     "tags": [
-      "React", "VUEJS", "JavaScript", "HTML", "CSS", "React Native"
+      "React", "VueJS", "JavaScript", "HTML", "CSS", "React Native"
     ],
     "industries": [
       "Real Estate", "Health and Social Care", "Retail"
@@ -892,14 +892,14 @@
       "value": "8",
       "type": "hearts"
     },
-    "location": "Santiago",
+    "location": "Santiago, Chile",
     "travelReady": true,
     "since": "2010",
     "tags": [
       "Ruby", "Java", "JavaScript", "CSS"
     ],
     "industries": [
-      "Geogrpahical Systems", "Airlines", "E-Commerce"
+      "Geographical Systems", "Airlines", "E-Commerce"
     ],
     "links": [
       {
@@ -918,7 +918,7 @@
       "value": "3",
       "type": "clubs"
     },
-    "location": "Glasgow - Scotland",
+    "location": "Glasgow, Scotland",
     "travelReady": false,
     "since": "1999",
     "tags": [
@@ -970,14 +970,14 @@
       "value": "3",
       "type": "hearts"
     },
-    "location": "Santiago de Chile",
+    "location": "Santiago, Chile",
     "travelReady": false,
     "since": "2014",
     "tags": [
       "Java", "Spring Boot", "jQuery"
     ],
     "industries": [
-      "Gobernaciones", "educación", "inversiones bancarias", "tiendas por departamento"
+      "Government", "Education", "Bank Investments", "Retail Stores"
     ],
     "links": [
       {
