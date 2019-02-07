@@ -40,11 +40,12 @@ export default class Member extends Component {
     if (!metadata) throw new Error(`Missing metadata for ${github.login}`)
 
     return (
-      <button
+      <article
         className={`member color-${colors[metadata.card.type]} ${
           this.state.focused ? 'focus' : ''
         }`}
-        onClick={() => {
+      >
+        <button className="memberButton" role="link" onClick={() => {
           let members = window.document.querySelectorAll('.member')
           Array.prototype.map.call(members, element => {
             element.className = this.state.focused
@@ -52,8 +53,7 @@ export default class Member extends Component {
               : `${element.className} hidden`
           })
           this.setState({ focused: !this.state.focused })
-        }}
-      >
+        }}>Click here</button>
         <div className="type">
           <div>{metadata.card.value}</div>
           <div>{types[metadata.card.type]}</div>
@@ -106,7 +106,7 @@ export default class Member extends Component {
             <div>{types[metadata.card.type]}</div>
           </div>
         </div>
-      </button>
+      </article>
     )
   }
 }
