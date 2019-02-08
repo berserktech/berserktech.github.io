@@ -1015,5 +1015,199 @@
         "text": "resume"
       }
     ]
+  },
+  {
+    "github": "tsakiro",
+    "card": {
+      "value": "5",
+      "type": "clubs"
+    },
+    "location": "Norway",
+    "travelReady": false,
+    "since": "2013",
+    "tags": [
+      "CSS", "HTML", "JS*", "WordPress", "Magento", "Statamic"
+    ],
+    "industries": [
+      "Fashion", "E-Commerce", "Parcel Delivery", "ISP"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/tsakiro",
+        "text": "Twitter: @tsakiro"
+      },
+      {
+        "link": "https://codepen.io/tsakiro/",
+        "text": "CSS drawings"
+      },
+      {
+        "link": "https://www.linkedin.com/in/tsakiro/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "manuelitox",
+    "card": {
+      "value": "10",
+      "type": "clubs"
+    },
+    "location": "Madrid",
+    "travelReady": true,
+    "since": "2009",
+    "tags": [
+      "ES6+", "React", "Next.js", "Redux", "GraphQL", "Jest", "Styled-Components", "CSS"
+    ],
+    "industries": [
+      "Real estate", "Health", "Fintech"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/Manuelitox",
+        "text": "Twitter: @Manuelitox"
+      },
+      {
+        "link": "https://www.linkedin.com/in/manuel-gonz%C3%A1lez-56997ab2/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "belgrades",
+    "card": {
+      "value": "",
+      "type": ""
+    },
+    "location": "Madrid",
+    "travelReady": false,
+    "since": "2006",
+    "tags": [
+      "Spark", "Hadoop", "Pandas", "Numpy", "Scipy", "BeautifulSoup (bs4)", "Falcon", "Spring", "cvxopt", "scikit-learn"
+    ],
+    "industries": [
+      "Predictvia", "Domusware", "UCV"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/FernandoCremaG",
+        "text": "Twitter: @FernandoCremaG"
+      },
+      {
+        "link": "http://fernandocrema.me/files/CV_fernando_crema_en.pdf",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "eduartua",
+    "card": {
+      "value": "2",
+      "type": "hearts"
+    },
+    "location": "Monterrey",
+    "travelReady": true,
+    "since": "2016",
+    "tags": [
+      "Golang", "Linux", "Web Development"
+    ],
+    "industries": [
+      "Onbie SA de Cv", "Cbac del Norte", "Kubernetes Organization"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/eduartua",
+        "text": "Twitter: @eduartua"
+      },
+      {
+        "link": "https://eduartua.com/",
+        "text": "eduartua.com"
+      },
+      {
+        "link": "https://www.linkedin.com/in/manuel-gonz%C3%A1lez-56997ab2/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "webjac",
+    "card": {
+      "value": "",
+      "type": ""
+    },
+    "location": "Madrid",
+    "travelReady": true,
+    "since": "2003",
+    "tags": [
+      "UX", "Design", "WordPress", "php", "HTML", "CSS", "JavaScript"
+    ],
+    "industries": [
+      "Insurance", "banking", "international organizations", "consulting"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/webjac",
+        "text": "Twitter: @webjac"
+      },
+      {
+        "link": "https://webjac.com/",
+        "text": "webjac.com"
+      },
+      {
+        "link": "https://www.linkedin.com/in/manuel-gonz%C3%A1lez-56997ab2/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "ajmarquez",
+    "card": {
+      "value": "5",
+      "type": "clubs"
+    },
+    "location": "Berlin",
+    "travelReady": true,
+    "since": "2014",
+    "tags": [
+      "iOS", "Swift", "Hardware", "IoT", "GPS", "Wireless Communications"
+    ],
+    "industries": [
+      "Startups", "Automotive"
+    ],
+    "links": [
+      {
+        "link": "https://medium.com/@ajmarquez",
+        "text": "medium"
+      },
+      {
+        "link": "https://twitter.com/ajmarquez",
+        "text": "Twitter: @Manuelitox"
+      },
+      {
+        "link": "https://medium.com/@ajmarquez",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "CoffeeNight",
+    "card": {
+      "value": "4",
+      "type": "clubs"
+    },
+    "location": "Singapore",
+    "travelReady": true,
+    "since": "2012",
+    "tags": [
+      "Python", "Django", "vuejs", "linux", "ELK", "Postgres", "Redis", "Electronic design"
+    ],
+    "industries": [
+      "Travel", "Social Media", "Ecommerce", "Oil", "Telecommunications"
+    ],
+    "links": [
+      {
+        "link": "https://www.linkedin.com/in/edgarricardo/?locale=en_US",
+        "text": "resume"
+      }
+    ]
   }
 ]
