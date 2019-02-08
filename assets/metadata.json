@@ -57,12 +57,8 @@
     "location": "Remote",
     "travelReady": true,
     "since": "2017",
-    "tags": [
-      "open source", "ruby", "rails", "poliglot", "music" 
-    ],
-    "industries": [
-      "e-government", "govtech", "e-commerce"
-    ],
+    "tags": ["open source", "ruby", "rails", "poliglot", "music"],
+    "industries": ["e-government", "govtech", "e-commerce"],
     "links": [
       {
         "link": "https://twitter.com/AITBW",
@@ -87,12 +83,8 @@
     "location": "Canada",
     "travelReady": true,
     "since": "2012",
-    "tags": [
-      "JS", "Python", "Serverless", "PubSub", "everything in between"
-    ],
-    "industries": [
-      "FinTech", "HealthTech", "Social Media", "E-Comm"
-    ],
+    "tags": ["JS", "Python", "Serverless", "PubSub", "everything in between"],
+    "industries": ["FinTech", "HealthTech", "Social Media", "E-Comm"],
     "links": [
       {
         "link": "https://twitter.com/obeladrian",
@@ -113,12 +105,8 @@
     "location": "Remote",
     "travelReady": true,
     "since": "2011",
-    "tags": [
-      "js", "cartujo", "web", "squirrels"
-    ],
-    "industries": [
-      "SaaS", "FinTech", "many other projects"
-    ],
+    "tags": ["js", "cartujo", "web", "squirrels"],
+    "industries": ["SaaS", "FinTech", "many other projects"],
     "links": [
       {
         "link": "https://twitter.com/stefanmaric_",
@@ -139,15 +127,8 @@
     "location": "Kiev and soon Madrid",
     "travelReady": true,
     "since": "2008",
-    "tags": [
-      "JavaScript",
-      "Serverless",
-      "WebGL",
-      "anything challenging"
-    ],
-    "industries": [
-      "Government", "Proxy", "VPNs", "Streaming", "Weed", "Art"
-    ],
+    "tags": ["JavaScript", "Serverless", "WebGL", "anything challenging"],
+    "industries": ["Government", "Proxy", "VPNs", "Streaming", "Weed", "Art"],
     "links": [
       {
         "link": "https://twitter.com/guerrerocarlos",
@@ -172,12 +153,8 @@
     "location": "Venezuela",
     "travelReady": false,
     "since": "2013",
-    "tags": [
-      "nodejs", "python", "devops", "vps"
-    ],
-    "industries": [
-      "tech", "social networks", "SEO"
-    ],
+    "tags": ["nodejs", "python", "devops", "vps"],
+    "industries": ["tech", "social networks", "SEO"],
     "links": [
       {
         "link": "https://twitter.com/rogergonzalez21",
@@ -203,10 +180,30 @@
     "travelReady": true,
     "since": "2011",
     "tags": [
-      "es6", "ts", "react", "angular", "vue", "mithril", "jasmine", "karma", "jest", "css", "graphQl", "node", "go", "sql", "postgresql", "mongodb"
+      "es6",
+      "ts",
+      "react",
+      "angular",
+      "vue",
+      "mithril",
+      "jasmine",
+      "karma",
+      "jest",
+      "css",
+      "graphQl",
+      "node",
+      "go",
+      "sql",
+      "postgresql",
+      "mongodb"
     ],
     "industries": [
-      "health", "financial", "sports", "collection", "data viz", "education"
+      "health",
+      "financial",
+      "sports",
+      "collection",
+      "data viz",
+      "education"
     ],
     "links": [
       {
@@ -228,12 +225,8 @@
     "location": "Bogotá, Colombia",
     "travelReady": true,
     "since": "2014",
-    "tags": [
-      "Node.js", "Angular", "Firebase Cloud Functions", "BigQuery" 
-    ],
-    "industries": [
-      "Rokk3r", "Biosistemika LLC",  "SocialH4ck"
-    ],
+    "tags": ["Node.js", "Angular", "Firebase Cloud Functions", "BigQuery"],
+    "industries": ["Rokk3r", "Biosistemika LLC", "SocialH4ck"],
     "links": [
       {
         "link": "https://twitter.com/maat_f5",
@@ -255,11 +248,16 @@
     "travelReady": true,
     "since": "2011",
     "tags": [
-      "React", "JavaScript", "Redux", "Ruby", "Rails", "PostgreSQL", "CSS", "HTML"
+      "React",
+      "JavaScript",
+      "Redux",
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "CSS",
+      "HTML"
     ],
-    "industries": [
-      "Real estate", "mobility", "food"
-    ],
+    "industries": ["Real estate", "mobility", "food"],
     "links": [
       {
         "link": "https://twitter.com/castrolem",
@@ -284,16 +282,8 @@
     "location": "Venezuela",
     "travelReady": false,
     "since": "2012",
-    "tags": [
-      "python",
-      "javascript",
-      "sql",
-      "scipy"
-    ],
-    "industries": [
-      "research centers",
-      "tech"
-    ],
+    "tags": ["python", "javascript", "sql", "scipy"],
+    "industries": ["research centers", "tech"],
     "links": [
       {
         "link": "https://twitter.com/jobliz",
@@ -354,13 +344,15 @@
     "travelReady": false,
     "since": "2009",
     "tags": [
-      "Data science", "Spark", "scipy", "Python", "bash", "Linux", "Mobile development"
+      "Data science",
+      "Spark",
+      "scipy",
+      "Python",
+      "bash",
+      "Linux",
+      "Mobile development"
     ],
-    "industries": [
-      "Airline", "Academic Research",
-      "FIU",
-      "Farelogix"
-    ],
+    "industries": ["Airline", "Academic Research", "FIU", "Farelogix"],
     "links": [
       {
         "link": "https://twitter.com/zentraedi",
@@ -381,11 +373,14 @@
     "location": "St Catharines, ON Canada",
     "travelReady": false,
     "since": "2013",
-    "tags": [
-      "JavaScript", "SQL", "Node", "Docker", "PHP", "HTML", "CSS"
-    ],
+    "tags": ["JavaScript", "SQL", "Node", "Docker", "PHP", "HTML", "CSS"],
     "industries": [
-      "Marketing", "B2B for eComerce", "Project Management", "GovTech", "Health", "Social Networks"
+      "Marketing",
+      "B2B for eComerce",
+      "Project Management",
+      "GovTech",
+      "Health",
+      "Social Networks"
     ],
     "links": [
       {
@@ -419,14 +414,8 @@
     "location": "Valera, Venezuela (for now)",
     "travelReady": true,
     "since": "2014",
-    "tags": [
-      "NodeJS",
-      "ReactJS",
-      "PHP"
-    ],
-    "industries": [
-      "High Frequency Trading", "Finances"
-    ],
+    "tags": ["NodeJS", "ReactJS", "PHP"],
+    "industries": ["High Frequency Trading", "Finances"],
     "links": [
       {
         "link": "https://twitter.com/asdrubalivan",
@@ -451,11 +440,13 @@
     "location": "Santiago, Chile",
     "travelReady": false,
     "since": "2008",
-    "tags": [
-      "JavaScript", "Ruby"
-    ],
+    "tags": ["JavaScript", "Ruby"],
     "industries": [
-      "Fintech", "Scientific Research", "Education", "Content Management", "IOT"
+      "Fintech",
+      "Scientific Research",
+      "Education",
+      "Content Management",
+      "IOT"
     ],
     "links": [
       {
@@ -482,12 +473,29 @@
     "travelReady": true,
     "since": "2004",
     "tags": [
-      "Linux", "PHP", "CSS", "JavaScript", "Docker", "Email", "Network",
-      "BASH", "WordPress", "Cloud", "Proxies", "Firewalls", "DNS", "Websites",
-      "Optimizations", "HA"
+      "Linux",
+      "PHP",
+      "CSS",
+      "JavaScript",
+      "Docker",
+      "Email",
+      "Network",
+      "BASH",
+      "WordPress",
+      "Cloud",
+      "Proxies",
+      "Firewalls",
+      "DNS",
+      "Websites",
+      "Optimizations",
+      "HA"
     ],
     "industries": [
-      "Government", "Startups", "Automotive", "E-Commerce", "Newspaper"
+      "Government",
+      "Startups",
+      "Automotive",
+      "E-Commerce",
+      "Newspaper"
     ],
     "links": [
       {
@@ -513,12 +521,8 @@
     "location": "Australia",
     "travelReady": true,
     "since": "",
-    "tags": [
-      "Ruby", "Ruby on Rails", "React", "Redux", "Postgres", "AWS"
-    ],
-    "industries": [
-      "Hosting", "eCommerce", "eLearning"
-    ],
+    "tags": ["Ruby", "Ruby on Rails", "React", "Redux", "Postgres", "AWS"],
+    "industries": ["Hosting", "eCommerce", "eLearning"],
     "links": [
       {
         "link": "https://twitter.com/aerocross",
@@ -544,10 +548,20 @@
     "travelReady": true,
     "since": "2007",
     "tags": [
-      "Python", "Rust", "JavaScript", "TypeScript", "PostgreSQL", "Automation", "IOT"
+      "Python",
+      "Rust",
+      "JavaScript",
+      "TypeScript",
+      "PostgreSQL",
+      "Automation",
+      "IOT"
     ],
     "industries": [
-      "Oil and Gas", "automation", "advertising", "cloud", "marketing"
+      "Oil and Gas",
+      "automation",
+      "advertising",
+      "cloud",
+      "marketing"
     ],
     "links": [
       {
@@ -574,11 +588,16 @@
     "travelReady": true,
     "since": "2002",
     "tags": [
-      "JavaScript", "Angular", "React", "CSS", "HTML", "frontend", "uidesign", "node"
+      "JavaScript",
+      "Angular",
+      "React",
+      "CSS",
+      "HTML",
+      "frontend",
+      "uidesign",
+      "node"
     ],
-    "industries": [
-      "Education", "Content Management", "eCommerce"
-    ],
+    "industries": ["Education", "Content Management", "eCommerce"],
     "links": [
       {
         "link": "https://twitter.com/fmontes",
@@ -603,12 +622,8 @@
     "location": "Venezuela",
     "travelReady": true,
     "since": "2013",
-    "tags": [
-      "SQL", "Agile", "Selenium"
-    ],
-    "industries": [
-      "QA", "e-Government"
-    ],
+    "tags": ["SQL", "Agile", "Selenium"],
+    "industries": ["QA", "e-Government"],
     "links": [
       {
         "link": "https://twitter.com/Genesis_3G",
@@ -634,11 +649,15 @@
     "travelReady": true,
     "since": "2011",
     "tags": [
-      "Full-Stack", "JS", "CSS", "PostgreSQL", "MongoDB", "music", "perfumes"
+      "Full-Stack",
+      "JS",
+      "CSS",
+      "PostgreSQL",
+      "MongoDB",
+      "music",
+      "perfumes"
     ],
-    "industries": [
-      "Social Network", "eCommerce", "warehouse", "distribution"
-    ],
+    "industries": ["Social Network", "eCommerce", "warehouse", "distribution"],
     "links": [
       {
         "link": "https://twitter.com/sergebruni",
@@ -660,10 +679,21 @@
     "travelReady": true,
     "since": "2009",
     "tags": [
-      "Python", "JavaScript", "Postgre", "Neptune", "MongoDb", "Machine Learning", "Distributed Systems"
+      "Python",
+      "JavaScript",
+      "Postgre",
+      "Neptune",
+      "MongoDb",
+      "Machine Learning",
+      "Distributed Systems"
     ],
     "industries": [
-      "Fintech", "Blockchain", "Biotech", "Bioinformatics", "E-Commerce", "Research"
+      "Fintech",
+      "Blockchain",
+      "Biotech",
+      "Bioinformatics",
+      "E-Commerce",
+      "Research"
     ],
     "links": [
       {
@@ -686,10 +716,19 @@
     "travelReady": false,
     "since": "2005",
     "tags": [
-      "Technology Law", "Accessories", "Design", "Illustration", "Management Tools", "Sales"
+      "Technology Law",
+      "Accessories",
+      "Design",
+      "Illustration",
+      "Management Tools",
+      "Sales"
     ],
     "industries": [
-      "Government", "Customs", "Manufacturing", "Trade", "Management"
+      "Government",
+      "Customs",
+      "Manufacturing",
+      "Trade",
+      "Management"
     ],
     "links": [
       {
@@ -716,11 +755,16 @@
     "travelReady": true,
     "since": "2006",
     "tags": [
-      "Gamedev", "Python", "JavaScript", "resilient", "real-time", "large-scale", "Java", "C#"
+      "Gamedev",
+      "Python",
+      "JavaScript",
+      "resilient",
+      "real-time",
+      "large-scale",
+      "Java",
+      "C#"
     ],
-    "industries": [
-      "eCommerce", "consulting", "videogames", "food"
-    ],
+    "industries": ["eCommerce", "consulting", "videogames", "food"],
     "links": [
       {
         "link": "https://twitter.com/satanas82",
@@ -746,11 +790,18 @@
     "travelReady": true,
     "since": "2011",
     "tags": [
-      "JavaScript", "React", "Redux", "Angular", "TypeScript", "React Native", "Django", "Agile", "TDD", "Scrum"
+      "JavaScript",
+      "React",
+      "Redux",
+      "Angular",
+      "TypeScript",
+      "React Native",
+      "Django",
+      "Agile",
+      "TDD",
+      "Scrum"
     ],
-    "industries": [
-      "Health", "Finance", "Tech"
-    ],
+    "industries": ["Health", "Finance", "Tech"],
     "links": [
       {
         "link": "https://twitter.com/BlackHarpy",
@@ -775,12 +826,8 @@
     "location": "Remote",
     "travelReady": true,
     "since": "2006",
-    "tags": [
-      "Ruby", "Rust", "Elm"
-    ],
-    "industries": [
-      "Legal", "Travel", "Finance"
-    ],
+    "tags": ["Ruby", "Rust", "Elm"],
+    "industries": ["Legal", "Travel", "Finance"],
     "links": [
       {
         "link": "https://twitter.com/ivanacostarubio",
@@ -805,12 +852,8 @@
     "location": "Remote",
     "travelReady": true,
     "since": "2007",
-    "tags": [
-      "AWS", "MySQL", "Redis", "ELK", "Docker", "Go", "JavaScript"
-    ],
-    "industries": [
-      "Universities", "Banking", "Video Game"
-    ],
+    "tags": ["AWS", "MySQL", "Redis", "ELK", "Docker", "Go", "JavaScript"],
+    "industries": ["Universities", "Banking", "Video Game"],
     "links": [
       {
         "link": "https://twitter.com/javjar",
@@ -835,12 +878,8 @@
     "location": "Santiago, CL",
     "travelReady": true,
     "since": "2009",
-    "tags": [
-      "Unity", "Unity3d", "C#", "Game Development", "GameDev"
-    ],
-    "industries": [
-      "Game Development", "GameDev", "Advertising"
-    ],
+    "tags": ["Unity", "Unity3d", "C#", "Game Development", "GameDev"],
+    "industries": ["Game Development", "GameDev", "Advertising"],
     "links": [
       {
         "link": "https://twitter.com/pctroll",
@@ -869,12 +908,8 @@
     "location": "Glasgow, Scotland",
     "travelReady": true,
     "since": "2018",
-    "tags": [
-      "React", "VueJS", "JavaScript", "HTML", "CSS", "React Native"
-    ],
-    "industries": [
-      "Real Estate", "Health and Social Care", "Retail"
-    ],
+    "tags": ["React", "VueJS", "JavaScript", "HTML", "CSS", "React Native"],
+    "industries": ["Real Estate", "Health and Social Care", "Retail"],
     "links": [
       {
         "link": "https://twitter.com/cleyrauc",
@@ -895,12 +930,8 @@
     "location": "Santiago, Chile",
     "travelReady": true,
     "since": "2010",
-    "tags": [
-      "Ruby", "Java", "JavaScript", "CSS"
-    ],
-    "industries": [
-      "Geographical Systems", "Airlines", "E-Commerce"
-    ],
+    "tags": ["Ruby", "Java", "JavaScript", "CSS"],
+    "industries": ["Geographical Systems", "Airlines", "E-Commerce"],
     "links": [
       {
         "link": "https://twitter.com/pankas87",
@@ -913,7 +944,7 @@
     ]
   },
   {
-    "github": "pattyoc",
+    "github": "pattyneta",
     "card": {
       "value": "3",
       "type": "clubs"
@@ -922,10 +953,28 @@
     "travelReady": false,
     "since": "1999",
     "tags": [
-      "PHP", "Drupal", "Laravel", "WordPress", "MySQL", "JavaScript", "CSS", "Java", "AI Ethics"
+      "PHP",
+      "Drupal",
+      "Laravel",
+      "WordPress",
+      "MySQL",
+      "JavaScript",
+      "CSS",
+      "Java",
+      "AI Ethics"
     ],
     "industries": [
-      "B2B", "Education", "Finances", "Early Social Networks", "GovTech", "eCommerce", "Marketing", "Travel", "Legal", "Telecommunications", "Health"
+      "B2B",
+      "Education",
+      "Finances",
+      "Early Social Networks",
+      "GovTech",
+      "eCommerce",
+      "Marketing",
+      "Travel",
+      "Legal",
+      "Telecommunications",
+      "Health"
     ],
     "links": [
       {
@@ -947,12 +996,8 @@
     "location": "Remote",
     "travelReady": true,
     "since": "2009",
-    "tags": [
-      "Ruby", "Python", "Rails", "Java", "data eng"
-    ],
-    "industries": [
-      "biotech", "microbiome", "law"
-    ],
+    "tags": ["Ruby", "Python", "Rails", "Java", "data eng"],
+    "industries": ["biotech", "microbiome", "law"],
     "links": [
       {
         "link": "https://twitter.com/despinoza85",
@@ -973,11 +1018,12 @@
     "location": "Santiago, Chile",
     "travelReady": false,
     "since": "2014",
-    "tags": [
-      "Java", "Spring Boot", "jQuery"
-    ],
+    "tags": ["Java", "Spring Boot", "jQuery"],
     "industries": [
-      "Government", "Education", "Bank Investments", "Retail Stores"
+      "Government",
+      "Education",
+      "Bank Investments",
+      "Retail Stores"
     ],
     "links": [
       {
@@ -999,12 +1045,8 @@
     "location": "San José, CA",
     "travelReady": true,
     "since": "1995",
-    "tags": [
-      "Scala", "Ruby", "Java"
-    ],
-    "industries": [
-      "Electric factories", "Industrial Factories", "eCommerce"
-    ],
+    "tags": ["Scala", "Ruby", "Java"],
+    "industries": ["Electric factories", "Industrial Factories", "eCommerce"],
     "links": [
       {
         "link": "https://twitter.com/antonbas",
@@ -1012,6 +1054,261 @@
       },
       {
         "link": "http://www.linkedin.com/in/antonio-bastardo-l1-visa-6296704",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "tsakiro",
+    "card": {
+      "value": "5",
+      "type": "clubs"
+    },
+    "location": "Norway",
+    "travelReady": false,
+    "since": "2013",
+    "tags": ["CSS", "HTML", "JS*", "WordPress", "Magento", "Statamic"],
+    "industries": ["Fashion", "E-Commerce", "Parcel Delivery", "ISP"],
+    "links": [
+      {
+        "link": "https://twitter.com/tsakiro",
+        "text": "Twitter: @tsakiro"
+      },
+      {
+        "link": "https://codepen.io/tsakiro/",
+        "text": "CSS drawings"
+      },
+      {
+        "link": "https://www.linkedin.com/in/tsakiro/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "manuelitox",
+    "card": {
+      "value": "10",
+      "type": "clubs"
+    },
+    "location": "Madrid",
+    "travelReady": true,
+    "since": "2009",
+    "tags": [
+      "ES6+",
+      "React",
+      "Next.js",
+      "Redux",
+      "GraphQL",
+      "Jest",
+      "Styled-Components",
+      "CSS"
+    ],
+    "industries": ["Real estate", "Health", "Fintech"],
+    "links": [
+      {
+        "link": "https://twitter.com/Manuelitox",
+        "text": "Twitter: @Manuelitox"
+      },
+      {
+        "link": "https://www.linkedin.com/in/manuel-gonz%C3%A1lez-56997ab2/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "belgrades",
+    "card": {
+      "value": "Q",
+      "type": "clubs"
+    },
+    "location": "Roma",
+    "travelReady": false,
+    "since": "2006",
+    "tags": [
+      "Spark",
+      "Hadoop",
+      "Pandas",
+      "Numpy",
+      "Scipy",
+      "BeautifulSoup (bs4)",
+      "Falcon",
+      "Spring",
+      "cvxopt",
+      "scikit-learn"
+    ],
+    "industries": ["Predictvia", "Domusware", "UCV"],
+    "links": [
+      {
+        "link": "https://twitter.com/FernandoCremaG",
+        "text": "Twitter: @FernandoCremaG"
+      },
+      {
+        "link": "http://fernandocrema.me/files/CV_fernando_crema_en.pdf",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "eduartua",
+    "card": {
+      "value": "2",
+      "type": "hearts"
+    },
+    "location": "Monterrey",
+    "travelReady": true,
+    "since": "2016",
+    "tags": ["Golang", "Linux", "Web Development"],
+    "industries": [
+      "Onbie SA de Cv",
+      "Cbac del Norte",
+      "Kubernetes Organization"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/eduartua",
+        "text": "Twitter: @eduartua"
+      },
+      {
+        "link": "https://eduartua.com/",
+        "text": "eduartua.com"
+      },
+      {
+        "link": "https://www.linkedin.com/in/manuel-gonz%C3%A1lez-56997ab2/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "webjac",
+    "card": {
+      "value": "",
+      "type": ""
+    },
+    "location": "Madrid",
+    "travelReady": true,
+    "since": "2003",
+    "tags": ["UX", "Design", "WordPress", "php", "HTML", "CSS", "JavaScript"],
+    "industries": [
+      "Insurance",
+      "banking",
+      "international organizations",
+      "consulting"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/webjac",
+        "text": "Twitter: @webjac"
+      },
+      {
+        "link": "https://webjac.com/",
+        "text": "webjac.com"
+      },
+      {
+        "link": "https://www.linkedin.com/in/manuel-gonz%C3%A1lez-56997ab2/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "ajmarquez",
+    "card": {
+      "value": "5",
+      "type": "clubs"
+    },
+    "location": "Berlin",
+    "travelReady": true,
+    "since": "2014",
+    "tags": [
+      "iOS",
+      "Swift",
+      "Hardware",
+      "IoT",
+      "GPS",
+      "Wireless Communications"
+    ],
+    "industries": ["Startups", "Automotive"],
+    "links": [
+      {
+        "link": "https://medium.com/@ajmarquez",
+        "text": "medium"
+      },
+      {
+        "link": "https://twitter.com/ajmarquez",
+        "text": "Twitter: @Manuelitox"
+      },
+      {
+        "link": "https://medium.com/@ajmarquez",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "CoffeeNight",
+    "card": {
+      "value": "4",
+      "type": "clubs"
+    },
+    "location": "Singapore",
+    "travelReady": true,
+    "since": "2012",
+    "tags": [
+      "Python",
+      "Django",
+      "vuejs",
+      "linux",
+      "ELK",
+      "Postgres",
+      "Redis",
+      "Electronic design"
+    ],
+    "industries": [
+      "Travel",
+      "Social Media",
+      "Ecommerce",
+      "Oil",
+      "Telecommunications"
+    ],
+    "links": [
+      {
+        "link": "https://www.linkedin.com/in/edgarricardo/?locale=en_US",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "LuisAlejandro",
+    "card": {
+      "value": "K",
+      "type": "clubs"
+    },
+    "location": "Maracay, Venezuela",
+    "travelReady": false,
+    "since": "2003",
+    "tags": [
+      "linux",
+      "node",
+      "python",
+      "php",
+      "bash",
+      "make",
+      "docker",
+      "continuous integration",
+      "angular",
+      "jquery",
+      "anime.js"
+    ],
+    "industries": ["NetUno", "CNTI", "Vauxoo", "Guayoyo Labs", "Leadbox"],
+    "links": [
+      {
+        "link": "https://twitter.com/LuisAlejandro",
+        "text": "Twitter: @LuisAlejandro"
+      },
+      {
+        "link": "http://huntingbears.com.ve/",
+        "text": "blog"
+      },
+      {
+        "link": "https://www.linkedin.com/in/martinezfaneyth",
         "text": "resume"
       }
     ]
