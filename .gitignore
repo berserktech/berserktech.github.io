@@ -56,3 +56,8 @@ typings/
 
 # dotenv environment variables file
 .env
+
+# Build directories
+tmp/
+dist/
+artifacts/

@@ -1,11 +1,3 @@
 {
-  "presets": ["@babel/preset-env", "@babel/preset-react"],
-  "plugins": [
-    ["@babel/transform-async-to-generator", {
-      "module": "bluebird",
-      "method": "coroutine"
-    }],
-    ["@babel/proposal-object-rest-spread"],
-    ["@babel/plugin-proposal-class-properties"]
-  ]
+  "presets": ["react-static/babel-preset.js"]
 }

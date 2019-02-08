@@ -131,7 +131,7 @@ header span {
 .members .member.hidden {
   display: none;
 }
-.members .member.focus {  
+.members .member.focus {
   opacity: 1;
   outline: none;
   background: white;

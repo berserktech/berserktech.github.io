@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Footer = () => (
-  <div className="footer">
+  <footer className="footer">
     <a target="_blank" href="https://github.com/berserktech">
       github.com/berserktech
     </a>
@@ -26,7 +26,7 @@ const Footer = () => (
     >
       <b>Read our Manifesto</b>
     </a>
-  </div>
+  </footer>
 )
 
 export default Footer
