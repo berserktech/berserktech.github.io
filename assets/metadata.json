@@ -1293,19 +1293,29 @@
       "make",
       "docker",
       "continuous integration",
+      "wordpress",
+      "jekyll",
+      "django",
       "angular",
       "jquery",
+      "vue.js",
       "anime.js"
     ],
-    "industries": ["NetUno", "CNTI", "Vauxoo", "Guayoyo Labs", "Leadbox"],
+    "industries": [
+      "government",
+      "research",
+      "automotive",
+      "startups",
+      "telecommunications"
+    ],
     "links": [
       {
         "link": "https://twitter.com/LuisAlejandro",
         "text": "Twitter: @LuisAlejandro"
       },
       {
-        "link": "http://huntingbears.com.ve/",
-        "text": "blog"
+        "link": "http://luisalejandro.org",
+        "text": "personal page"
       },
       {
         "link": "https://www.linkedin.com/in/martinezfaneyth",
