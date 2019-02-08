@@ -1,5 +1,8 @@
 import Octokit from '@octokit/rest'
-const client = new Octokit()
+
+let params = {}
+if (process.env.TOKEN) params.auth = `token ${process.env.TOKEN}`
+const client = new Octokit(params)
 
 export const getMember = async username =>
   (await client.users.getByUsername({ username })).data

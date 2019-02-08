@@ -15,18 +15,20 @@ const types = {
 }
 
 const mapSentence = f => x =>
-  x.reduce(
-    (acc, e, i) => [
-      ...acc,
-      i === x.length - 1 ? (
-        <span key={`${i}-span`}>&nbsp;&&nbsp;</span>
-      ) : (
-        <span key={`${i}-span`}>,&nbsp;</span>
-      ),
-      f(e, i),
-    ],
-    []
-  ).slice(1)
+  x
+    .reduce(
+      (acc, e, i) => [
+        ...acc,
+        i === x.length - 1 ? (
+          <span key={`${i}-span`}>&nbsp;&&nbsp;</span>
+        ) : (
+          <span key={`${i}-span`}>,&nbsp;</span>
+        ),
+        f(e, i),
+      ],
+      []
+    )
+    .slice(1)
 
 export default class Member extends Component {
   state = {
@@ -45,15 +47,21 @@ export default class Member extends Component {
           this.state.focused ? 'focus' : ''
         }`}
       >
-        <button className="memberButton" role="link" onClick={() => {
-          let members = window.document.querySelectorAll('.member')
-          Array.prototype.map.call(members, element => {
-            element.className = this.state.focused
-              ? element.className.replace(/hidden/g, '')
-              : `${element.className} hidden`
-          })
-          this.setState({ focused: !this.state.focused })
-        }}>Click here</button>
+        <button
+          className="memberButton"
+          role="link"
+          onClick={() => {
+            let members = window.document.querySelectorAll('.member')
+            Array.prototype.map.call(members, element => {
+              element.className = this.state.focused
+                ? element.className.replace(/hidden/g, '')
+                : `${element.className} hidden`
+            })
+            this.setState({ focused: !this.state.focused })
+          }}
+        >
+          Click here
+        </button>
         <div className="type">
           <div>{metadata.card.value}</div>
           <div>{types[metadata.card.type]}</div>
