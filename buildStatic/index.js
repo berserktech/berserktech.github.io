@@ -7,16 +7,17 @@ import metadata from '../assets/metadata'
 import { renderTemplateFile } from 'template-file'
 
 export default async function getAllMembers(list) {
-  // Getting all of our members, sorted by followers
-  let members
-  try {
-    members = await gh.getMembersFull('berserktech')
-  } catch (e) {
-    console.info(
-      'Failed to get the members, using the cached response',
-      e.message
-    )
-    members = require('../fixtures/members.json')
+  let members = members = require('../fixtures/members.json')
+  
+  if (!process.env.cached) {
+    try {
+      members = await gh.getMembersFull('berserktech')
+    } catch (e) {
+      console.info(
+        'Failed to get the members, using the cached response',
+        e.message
+      )
+    }
   }
 
   // Updating the fixtures
