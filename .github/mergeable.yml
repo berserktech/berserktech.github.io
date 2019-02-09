@@ -10,8 +10,6 @@ mergeable:
         min:  
           count: 1
       - do: dependent
-        files: ['package.json', 'package-lock.json']
-      - do: dependent
         files: ['index.html', 'main.js', 'main.js.map']
       - do: description
         no_empty:
