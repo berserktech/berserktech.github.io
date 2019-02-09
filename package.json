@@ -12,7 +12,6 @@
     "test-fmt": "prettier --ignore-path coverage --check '*/**/*.js' assets/metadata.json",
     "test": "jest --",
     "test:watch": "jest --watch --",
-    "test:ci": "jest --coverage --json --outputFile=test-results.json",
     "coverage": "jest --coverage --"
   },
   "repository": {

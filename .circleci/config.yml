@@ -16,7 +16,7 @@ jobs:
             - ./node_modules
       - run:
           name: lint
-          command: npm run lint:ci
+          command: npm run lint
       - run:
           name: fmt
           command: npm run test-fmt
