@@ -1181,8 +1181,8 @@
   {
     "github": "webjac",
     "card": {
-      "value": "",
-      "type": ""
+      "value": "2",
+      "type": "clubs"
     },
     "location": "Madrid",
     "travelReady": true,
@@ -1213,7 +1213,7 @@
     "github": "ajmarquez",
     "card": {
       "value": "5",
-      "type": "clubs"
+      "type": "spades"
     },
     "location": "Berlin",
     "travelReady": true,
