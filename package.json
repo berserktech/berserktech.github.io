@@ -9,6 +9,7 @@
     "build:watch": "nodemon -e js,html --delay 5 index",
     "lint": "eslint --ignore-path .gitignore '*/**/*.js'",
     "fmt": "prettier --ignore-path coverage --write '*/**/*.js' assets/metadata.json",
+    "test-fmt": "prettier --ignore-path coverage --check '*/**/*.js' assets/metadata.json",
     "test": "jest --",
     "test:watch": "jest --watch --",
     "test:ci": "jest --coverage --json --outputFile=test-results.json",
