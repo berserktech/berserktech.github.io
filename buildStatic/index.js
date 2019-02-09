@@ -7,8 +7,8 @@ import metadata from '../assets/metadata'
 import { renderTemplateFile } from 'template-file'
 
 export default async function getAllMembers(list) {
-  let members = members = require('../fixtures/members.json')
-  
+  let members = (members = require('../fixtures/members.json'))
+
   if (!process.env.cached) {
     try {
       members = await gh.getMembersFull('berserktech')

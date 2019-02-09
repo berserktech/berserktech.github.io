@@ -1,3 +1,3 @@
-import {createSerializer} from 'enzyme-to-json';
+import { createSerializer } from 'enzyme-to-json'
 
-expect.addSnapshotSerializer(createSerializer({mode: 'deep'}));
+expect.addSnapshotSerializer(createSerializer({ mode: 'deep' }))
