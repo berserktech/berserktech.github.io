@@ -8,8 +8,8 @@
     "build": "node index",
     "build:watch": "nodemon -e js,html --delay 5 index",
     "lint": "eslint --ignore-path .gitignore '*/**/*.js'",
-    "fmt": "prettier --ignore-path coverage --write '*/**/*.js' assets/metadata.json",
-    "test-fmt": "prettier --ignore-path coverage --check '*/**/*.js' assets/metadata.json",
+    "fmt": "prettier --ignore-path .gitignore --write '*/**/*.js' assets/metadata.json",
+    "test-fmt": "prettier --ignore-path .gitignore --check '*/**/*.js' assets/metadata.json",
     "test": "jest --",
     "test:watch": "jest --watch --",
     "coverage": "jest --coverage --"
@@ -43,6 +43,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "html-webpack-plugin": "^3.2.0",
     "http-server": "^0.11.1",
+    "husky": "^1.3.1",
     "jest": "^24.1.0",
     "nodemon": "^1.18.9",
     "prettier": "^1.16.4",
@@ -65,5 +66,10 @@
     "semi": false,
     "singleQuote": true,
     "trailingComma": "es5"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run fmt"
+    }
   }
 }
