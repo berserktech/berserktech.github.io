@@ -1,0 +1,6 @@
+# exclude package-lock from github diffs
+package-lock.json -diff
+
+# Fix github diff issues with ' characters in js files containing js
+# See [github/linguist#3677](https://github.com/github/linguist/pull/3677)
+js linguist-language=JSX
