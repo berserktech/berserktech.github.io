@@ -746,7 +746,7 @@
     ]
   },
   {
-    "github": "satanas82",
+    "github": "satanas",
     "card": {
       "value": "6",
       "type": "spades"
@@ -1319,6 +1319,227 @@
       },
       {
         "link": "https://www.linkedin.com/in/martinezfaneyth",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "MauHernandez",
+    "card": {
+      "value": "10",
+      "type": "hearts"
+    },
+    "location": "Argentina",
+    "travelReady": true,
+    "since": "2010",
+    "tags": [
+      "ES6+",
+      "React",
+      "Vue.js",
+      "Redux",
+      "Styled-Components",
+      "CSS",
+      "PHP",
+      "Wordpress",
+      "Python",
+      "Django",
+      "bash scripting",
+      "linux networking"
+    ],
+    "industries": [
+      "Marketing",
+      "B2B software",
+      "Telecommunications",
+      "e-Government",
+      "e-Comm",
+      "Internet Governance"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/mauhernandezg",
+        "text": "Twitter: @mauhernandezg"
+      },
+      {
+        "link": "mauhernandez.github.io",
+        "text": "website"
+      },
+      {
+        "link": "http://mauhernandez.github.io/Maureen_Hernandez_resume.pdf",
+        "text": "resume"
+      },
+      {
+        "link": "https://linkedin.com/in/maureenhernandez",
+        "text": "LinkedIn"
+      },
+      {
+        "link": "http://ula.academia.edu/MaureenHernandez",
+        "text": "Academia"
+      }
+    ]
+  },
+  {
+    "github": "ghostbar",
+    "card": {
+      "value": "8",
+      "type": "spades"
+    },
+    "location": "Remote",
+    "travelReady": true,
+    "since": "1997",
+    "tags": [
+      "Go",
+      "Docker",
+      "MySQL",
+      "PostgreSQL",
+      "Kubernetes",
+      "Bash",
+      "MongoDB",
+      "JavaScript"
+    ],
+    "industries": ["Small Startups", "Security", "Open Source"],
+    "links": [
+      {
+        "link": "https://twitter.com/joseluisrivas",
+        "text": "Twitter: @joseluisrivas"
+      },
+      {
+        "link": "https://twitter.com/ghostbar",
+        "text": "Twitter: @ghostbar"
+      },
+      {
+        "link": "https://www.linkedin.com/in/ghostbar/",
+        "text": "resume"
+      }
+    ]
+  },
+  {
+    "github": "gubatron",
+    "card": {
+      "value": "8",
+      "type": "diamonds"
+    },
+    "location": "Denver, CO",
+    "travelReady": true,
+    "since": "2002",
+    "tags": [
+      "Java",
+      "C",
+      "C++",
+      "Python",
+      "PHP",
+      "HTML",
+      "JS",
+      "CSS",
+      "Bash",
+      "Linux",
+      "Ubuntuing since 2005",
+      "SQL",
+      "MySQL",
+      "AWS",
+      "cmake"
+    ],
+    "industries": [
+      "Media",
+      "File sharing",
+      "P2P Networking",
+      "Gnutella",
+      "BitTorrent",
+      "Blockchain",
+      "News",
+      "Mobile Media"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/gubatron",
+        "text": "Twitter: @gubatron"
+      },
+      {
+        "link": "http://www.gubatron.com",
+        "text": "gubatron.com"
+      },
+      {
+        "link": "http://www.gubatron.com/blog/",
+        "text": "blog"
+      },
+      {
+        "link": "https://medium.com/@gubatron",
+        "text": "medium"
+      },
+      {
+        "link": "https://frostwire.com",
+        "text": "Free BitTorrent Client for Desktop and Android"
+      }
+    ]
+  },
+  {
+    "github": "edgar",
+    "card": {
+      "value": "9",
+      "type": "picas"
+    },
+    "location": "NYC",
+    "travelReady": true,
+    "since": "1988",
+    "tags": ["Ruby", "Go", "RDBMS", "GraphQL", "gRPC", "REST"],
+    "industries": [
+      "Real Estate",
+      "Retail",
+      "Internet",
+      "Telecom",
+      "Insurance",
+      "Banking"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/edgar",
+        "text": "Twitter: @edgar"
+      },
+      {
+        "link": "http://gonzalez.io",
+        "text": "gonzalez.io"
+      },
+      {
+        "link": "https://www.linkedin.com/in/edgargonzalezg/",
+        "text": "resume"
+      },
+      {
+        "link": "http://medium.com/@edgar",
+        "text": "medium"
+      }
+    ]
+  },
+  {
+    "github": "josevill",
+    "card": {
+      "value": "9",
+      "type": "diamonds"
+    },
+    "location": "Madrid",
+    "travelReady": true,
+    "since": "2003",
+    "tags": [
+      "Distributed",
+      "Full-stack",
+      "Go",
+      "Elixir",
+      "Electron",
+      "AWS",
+      "ELK",
+      "Docker",
+      "Rundeck"
+    ],
+    "industries": ["Logistics", "IOT", "Wholesales"],
+    "links": [
+      {
+        "link": "https://twitter.com/anotherspanish",
+        "text": "Twitter: @anotherspanish"
+      },
+      {
+        "link": "http://joseviloria.tech",
+        "text": "joseviloria.tech"
+      },
+      {
+        "link": "https://linkedin.com/in/kbono",
         "text": "resume"
       }
     ]
