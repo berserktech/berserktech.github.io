@@ -10,7 +10,7 @@ mergeable:
         min:  
           count: 1
       - do: dependent
-        files: ['index.html', 'main.js', 'main.js.map']
+        files: ['index.html', 'main.js']
       - do: description
         no_empty:
            enabled: true
