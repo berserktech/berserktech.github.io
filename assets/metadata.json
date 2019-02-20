@@ -1543,5 +1543,70 @@
         "text": "resume"
       }
     ]
+  },
+  {
+    "github": "mirabalj",
+    "card": {
+      "value": "6",
+      "type": "clubs"
+    },
+    "location": "Medellin, Colombia",
+    "travelReady": false,
+    "since": "1990",
+    "tags": [
+      "NodeJS",
+      "JavaScript",
+      "ES6",
+      "Python",
+      "React",
+      "Angular", "PHP", "MongoDB", "NoSQL", "MySQL", "Lean Startup", "C/C++", "GNU/Linux", "Docker", "HTML/CSS"
+    ],
+    "industries": [
+      "Digital Content Distribution",
+      "Support and improvement for Startups",
+      "Entrepreneurship",
+      "Education",
+      "Purchasing Management"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/iamjinme",
+        "text": "Twitter: @iamjinme"
+      },
+      {
+        "link": "http://jinme.co",
+        "text": "jinme.co"
+      }
+    ]
+  },
+  {
+    "github": "gassius",
+    "card": {
+      "value": "2",
+      "type": "spades"
+    },
+    "location": "Remote",
+    "travelReady": false,
+    "since": "1997",
+    "tags": [
+      "Js", "php", "laravel", "vue"
+    ],
+    "industries": [
+      "Media", "Advertisement", "e-learning", "govt"
+    ],
+    "links": [
+      {
+        "link": "https://twitter.com/gassius",
+        "text": "Twitter: @gassius"
+      },
+      {
+        "link": "https://carlos.gonzalezri.co",
+        "text": "carlos.gonzalezri.co"
+      },
+      {
+        "link": "http://linkedin.com/cgonzalezr",
+        "text": "resume"
+      }
+    ]
   }
 ]
